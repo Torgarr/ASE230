@@ -47,7 +47,7 @@
 							</div><!--//primary-info-->
 						    <div class="secondary-info col-auto mt-2">
 							    <ul class="resume-social list-unstyled">
-					                <li class="mb-3"><a class="www.linkedin.com/in/jakob-banta-a3085a187" href="#"><span class="fa-container text-center me-2"><i class="fab fa-linkedin-in fa-fw"></i></span>linkedin.com</a></li>
+					                <li class="mb-3"><a class="www.linkedin.com/in/jakob-banta-a3085a187" href="#"><span class="fa-container text-center me-2"><i class="fab fa-linkedin-in fa-fw"></i></span><?= 'linkedin.com' ?></a></li>
 					                <li class="mb-3"><a class="https://github.com/Torgarr" href="#"><span class="fa-container text-center me-2"><i class="fab fa-github-alt fa-fw"></i></span><?= 'https://github.com/Torgarr' ?></a></li>
 							    </ul>
 						    </div><!--//secondary-info-->
